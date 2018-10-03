@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Educational Game 2.0",
+"dataUrl": "Education Game.data.unityweb",
+"asmCodeUrl": "Education Game.asm.code.unityweb",
+"asmMemoryUrl": "Education Game.asm.memory.unityweb",
+"asmFrameworkUrl": "Education Game.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
